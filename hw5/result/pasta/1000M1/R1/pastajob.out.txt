@@ -1,0 +1,18 @@
+PASTA INFO: Directory for temporary files created at /Users/kathie/.pasta/pastajob/tempswjng540
+PASTA INFO: Name translation information saved to /Users/kathie/Dropbox/cs581/hw5/result/pasta/1000M1/R1/pastajob_temp_name_translation.txt as safe name, original name, blank line format.
+PASTA INFO: Creating a starting tree for the PASTA algorithm...
+PASTA INFO: Performing initial alignment of the entire data matrix...
+PASTA INFO: Performing initial tree search to get starting tree...
+PASTA INFO: Starting PASTA algorithm on initial tree...
+PASTA INFO: Max subproblem set to 200
+PASTA INFO: Step 0. Realigning with decomposition strategy set to mincluster
+PASTA INFO: Step 0. Alignment obtained. Tree inference beginning...
+PASTA INFO: realignment accepted and score improved.
+PASTA INFO: current score: -1073301.756, best score: -1073301.756
+PASTA INFO: TreeShrink option has been turned off!
+PASTA INFO: Writing resulting alignment to result/pasta/1000M1/R1/pastajob.marker001.unaligned.txt.aln
+PASTA INFO: Writing resulting tree to result/pasta/1000M1/R1/pastajob.tre
+PASTA INFO: Writing resulting likelihood score to result/pasta/1000M1/R1/pastajob.score.txt
+PASTA INFO: The resulting alignment (with the names in a "safe" form) was first written as the file "/Users/kathie/Dropbox/cs581/hw5/result/pasta/1000M1/R1/pastajob_temp_iteration_0_seq_alignment.txt"
+PASTA INFO: The resulting tree (with the names in a "safe" form) was first written as the file "/Users/kathie/Dropbox/cs581/hw5/result/pasta/1000M1/R1/pastajob_temp_iteration_0_tree.tre"
+PASTA INFO: Total time spent: 1403.2147738933563s
